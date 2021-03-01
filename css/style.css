@@ -110,7 +110,8 @@ body{
 /* FST SECTION*/
 .fst-section{
     width: 100%;
-    max-height: 75px; 
+    max-height: 80px; 
+    padding: 5px;
     display: flex;
     overflow-x: auto;
     justify-content: space-evenly;
